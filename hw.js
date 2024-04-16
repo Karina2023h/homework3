@@ -1,5 +1,6 @@
-let text1 = prompt();
-let text2 = prompt();
-let text3 = prompt();
+const text1 = prompt();
+const text2 = prompt();
+const text3 = prompt();
 
+alert(`${text3} ${text1} ${text2}`);
 console.log(`${text3} ${text1} ${text2}`);
